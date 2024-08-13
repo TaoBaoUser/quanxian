@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "koa-generator": "^1.1.17"
+  }
+}
